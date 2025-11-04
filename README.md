@@ -10,12 +10,24 @@ Currently pursuing my junior year in Karunya Institute of Technology and Science
 
 I love to blend creativity with logic and like to keep the whole developing stuff fun. 
 
+
+
+
+
 **Skills**
 
+
+
+
+
+
+
+
+
+
+
+
 **Tools**
-
-
-
 
 
 
