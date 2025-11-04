@@ -4,7 +4,7 @@
 <img width="3780" height="1890" alt="linkedin cover" src="https://github.com/user-attachments/assets/e3197680-3705-4ccf-bba3-4bf2346368c1" />
 
 
-Hello! I'm **Deva Nandhana**, I have great interest in Front-End developing and AI and Machine Learning.
+Hello! I'm **Deva Nandhana**, I have great interest in Front-End development and AI and Machine Learning.
 
 Currently pursuing my junior year in Karunya Institute of Technology and Science Coimbatore.
 
